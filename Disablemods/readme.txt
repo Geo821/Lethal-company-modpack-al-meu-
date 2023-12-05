@@ -1,0 +1,1 @@
+tragi aici folderul BeepInEx cand vrei sa joci fara moduri sau il scoti de aici cand vrei sa joci cu ele

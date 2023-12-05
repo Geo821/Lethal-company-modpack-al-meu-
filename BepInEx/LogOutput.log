@@ -1,0 +1,363 @@
+[Message:   BepInEx] BepInEx 5.4.21.0 - Lethal Company (11/13/2023 1:09:50 AM)
+[Info   :   BepInEx] Running under Unity v2022.3.9.15351836
+[Info   :   BepInEx] CLR runtime version: 4.0.30319.42000
+[Info   :   BepInEx] Supports SRE: True
+[Info   :   BepInEx] System platform: Bits64, Windows
+[Message:   BepInEx] Preloader started
+[Info   :   BepInEx] Loaded 1 patcher method from [BepInEx.Preloader 5.4.21.0]
+[Info   :   BepInEx] 1 patcher plugin loaded
+[Info   :   BepInEx] Patching [UnityEngine.CoreModule] with [BepInEx.Chainloader]
+[Message:   BepInEx] Preloader finished
+[Message:   BepInEx] Chainloader ready
+[Message:   BepInEx] Chainloader started
+[Info   :   BepInEx] 7 plugins to load
+[Warning:   BepInEx] Plugin [MoreEmotes-Sligili 0.1.0] targets a wrong version of BepInEx (5.4.22.0) and might not work until you update
+[Warning:   BepInEx] Plugin [More Suits 1.3.2] targets a wrong version of BepInEx (5.4.22.0) and might not work until you update
+[Info   :   BepInEx] Loading [BiggerLobby 2.4.0]
+[Info   : Unity Log] newarr
+[Info   : Unity Log] ok gunna do it
+[Info   : Unity Log] ok gunna did it
+[Info   : Unity Log] newarr
+[Info   : Unity Log] ok gunna do it
+[Info   : Unity Log] ok gunna did it
+[Info   : Unity Log] newarr
+[Info   : Unity Log] ok gunna do it
+[Info   : Unity Log] ok gunna did it
+[Info   : Unity Log] blt
+[Info   : Unity Log] ok gunna do it
+[Info   : Unity Log] ok gunna did it
+[Info   : Unity Log] blt
+[Info   : Unity Log] ok gunna do it
+[Info   : Unity Log] ok gunna did it
+[Info   : Unity Log] blt
+[Info   : Unity Log] newarr
+[Info   : Unity Log] ok gunna do it
+[Info   : Unity Log] ok gunna did it
+[Info   : Unity Log] blt
+[Info   : Unity Log] ok gunna do it
+[Info   : Unity Log] ok gunna did it
+[Info   : Unity Log] blt
+[Info   : Unity Log] blt
+[Info   : Unity Log] blt
+[Info   : Unity Log] blt
+[Info   : Unity Log] blt
+[Info   : Unity Log] blt
+[Info   : Unity Log] ok gunna do it
+[Info   : Unity Log] ok gunna did it
+[Info   : Unity Log] blt
+[Info   : Unity Log] blt
+[Info   : Unity Log] ok gunna do it
+[Info   : Unity Log] ok gunna did it
+[Info   : Unity Log] blt
+[Info   : Unity Log] ok gunna do it
+[Info   : Unity Log] ok gunna did it
+[Info   : Unity Log] blt
+[Info   : Unity Log] ok gunna do it
+[Info   : Unity Log] ok gunna did it
+[Info   : Unity Log] ldfld
+[Info   : Unity Log] ldfld
+[Info   : Unity Log] ldarg.0
+[Info   : Unity Log] Kick Fix Applied
+[Info   : Unity Log] blt
+[Info   : Unity Log] blt
+[Info   : Unity Log] blt
+[Info   : Unity Log] blt
+[Info   : Unity Log] blt
+[Info   : Unity Log] blt
+[Info   : Unity Log] ok gunna do it
+[Info   : Unity Log] ok gunna did it
+[Info   :BiggerLobby] BiggerLobby loaded
+[Info   :   BepInEx] Loading [ShipLoot 1.0]
+[Info   :   BepInEx] Loading [LC_API 2.1.1]
+[Warning:    LC_API] 
+.____    _________           _____  __________ .___  
+|    |   \_   ___ \         /  _  \ \______   \|   | 
+|    |   /    \  \/        /  /_\  \ |     ___/|   | 
+|    |___\     \____      /    |    \|    |    |   | 
+|_______ \\______  /______\____|__  /|____|    |___| 
+        \/       \//_____/        \/                 
+                                                     
+[Info   :    LC_API] LC_API Starting up..
+[Info   :   BepInEx] Loading [MoreEmotes-Sligili 0.1.0]
+[Info   :MoreEmotes-Sligili] MoreEmotes loaded
+[Info   :   BepInEx] Loading [MoreItems 1.0.0]
+[Info   : MoreItems] Plugin MoreItems is loaded!
+[Info   :   BepInEx] Loading [Yippee tbh mod 1.2.1]
+[Info   :sunnobunno.YippeeMod] Yippee Mod is loading.
+[Info   :sunnobunno.YippeeMod] D:\Games\Lethal test\Lethal Company\BepInEx\plugins\yippeesound
+[Info   :sunnobunno.YippeeMod] Yippee Mod is loaded. Yippee!!!
+[Info   :   BepInEx] Loading [More Suits 1.3.2]
+[Info   :More Suits] Plugin More Suits is loaded!
+[Message:   BepInEx] Chainloader startup complete
+[Message:    LC_API] A plugin has set your game to only allow you to play with other people who have mods!
+[Message:    LC_API] BundleAPI will now load all asset bundles...
+[Message:    LC_API] BundleAPI got no assets to load from legacy directory
+[Message:    LC_API] BundleAPI got 3 AssetBundles to load!
+[Error  : Unity Log] The AssetBundle 'D:\Games\Lethal test\Lethal Company\BepInEx\plugins\yippeesound' can't be loaded because another AssetBundle with the same files is already loaded.
+[Error  :    LC_API] Failed to load an assetbundle! Path: D:\Games\Lethal test\Lethal Company\BepInEx\plugins\yippeesound
+[Error  : Unity Log] The AssetBundle 'D:\Games\Lethal test\Lethal Company\BepInEx\plugins\MoreEmotes\animationsbundle' can't be loaded because another AssetBundle with the same files is already loaded.
+[Error  :    LC_API] Failed to load an assetbundle! Path: D:\Games\Lethal test\Lethal Company\BepInEx\plugins\MoreEmotes\animationsbundle
+[Error  : Unity Log] The AssetBundle 'D:\Games\Lethal test\Lethal Company\BepInEx\plugins\MoreEmotes\animatorbundle' can't be loaded because another AssetBundle with the same files is already loaded.
+[Error  :    LC_API] Failed to load an assetbundle! Path: D:\Games\Lethal test\Lethal Company\BepInEx\plugins\MoreEmotes\animatorbundle
+[Message:    LC_API] BundleAPI finished loading all assets.
+[Message:    LC_API] BundleAPI finished loading all assets.
+[Info   :    LC_API] LC_API Started!
+[Info   : Unity Log] Changing gamma
+[Info   : Unity Log] override float value: 1
+[Info   : Unity Log] Overriding float
+[Info   : Unity Log] Gamma changed
+[Info   : Unity Log] Set gamma to new value: 1; (0.00, 0.00, 0.00, 1.00) (True)
+[Info   : Unity Log] Saving changed settings
+[Info   : Unity Log] Changing gamma
+[Info   : Unity Log] override float value: 1
+[Info   : Unity Log] Overriding float
+[Info   : Unity Log] Gamma changed
+[Info   : Unity Log] Set gamma to new value: 1; (0.00, 0.00, 0.00, 1.00) (True)
+[Info   : Unity Log] subcribing to steam callbacks
+[Info   : Unity Log] Changing gamma
+[Info   : Unity Log] override float value: 1
+[Info   : Unity Log] Overriding float
+[Info   : Unity Log] Gamma changed
+[Info   : Unity Log] Set gamma to new value: 1; (0.00, 0.00, 0.00, 1.00) (True)
+[Info   : Unity Log] [FacepunchTransport] - Initialized access to Steam Relay Network.
+[Info   : Unity Log] [FacepunchTransport] - Fetched user Steam ID.
+[Info   : Unity Log] Set version num
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Info   : Unity Log] Changing gamma
+[Info   : Unity Log] override float value: 1
+[Info   : Unity Log] Overriding float
+[Info   : Unity Log] Gamma changed
+[Info   : Unity Log] Set gamma to new value: 1; (0.00, 0.00, 0.00, 1.00) (True)
+[Info   : Unity Log] T
+[Info   : Unity Log] [Dissonance:Core] (16:16:41.775) DissonanceComms: Loading default playback prefab
+[Info   : Unity Log] [Dissonance:Core] (16:16:41.802) DissonanceComms: Starting Dissonance Voice Comms (8.0.4)
+- Network: [DissonanceSetup (Dissonance.Integrations.Unity_NFGO.NfgoCommsNetwork)]
+- Quality Settings: [Quality: Medium, FrameSize: Small, FEC: True, DenoiseAmount: Moderate, RNN: False (0.65) VoiceDuckLevel: 1 VAD: MediumSensitivity]
+- Codec: [Codec: Opus, FrameSize: 960, SampleRate: 48kHz]
+[Info   : Unity Log] host button pressed
+[Info   : Unity Log] 8
+[Info   : Unity Log] 8
+[Info   : Unity Log] ServerPlayersField (UnityEngine.GameObject)
+[Info   : Unity Log] Text (UnityEngine.GameObject)
+[Info   : Unity Log] Text (TMPro.TextMeshProUGUI)
+[Info   : Unity Log] 8
+[Info   : Unity Log] 8
+[Info   : Unity Log] SETTING MAX PLAYERS===
+[Info   : Unity Log] SetMax
+[Info   : Unity Log] 8
+[Info   : Unity Log] Displaying menu message
+[Info   : Unity Log] [Netcode] StartHost
+[Info   : Unity Log] [Netcode] Initialize
+[Info   : Unity Log] [FacepunchTransport] - Starting as server.
+[Info   : Unity Log] Connection approval callback! Game version of client request: 
+[Info   : Unity Log] Joining client id: 0; Local/host client id: 0
+[Info   : Unity Log] Stopped connection approval callback, as the client in question was the host!
+[Warning: Unity Log] [Netcode] You cannot decline the host connection. The connection was automatically approved.
+[Info   : Unity Log] started host!
+[Info   : Unity Log] are we in a server?: True
+[Message:    LC_API] server pre-setup success
+[Info   : Unity Log] Lobby has been created
+[Info   : Unity Log] [Dissonance:Network] (16:16:46.387) NfgoServer: Created server with SessionId:1700174623
+[Info   : Unity Log] [Dissonance:Network] (16:16:46.390) NfgoServer: Connected
+[Info   : Unity Log] [Dissonance:Recording] (16:16:46.451) BasicMicrophoneCapture: Began mic capture (SampleRate:44100Hz, FrameSize:882, Buffer Limit:2^13, Latency:20ms, Device:'')
+[Info   : Unity Log] [Dissonance:Network] (16:16:46.473) ConnectionNegotiator`1: Received handshake response from server, joined session '1700174623'
+[Info   : Unity Log] [Dissonance:Network] (16:16:49.954) NfgoClient: Disconnected
+[Info   : Unity Log] [Dissonance:Network] (16:16:49.959) NfgoServer: Disconnected
+[Info   : MoreItems] Maximum amount of items that can be saved set to 999.
+[Info   : Unity Log] Enabling connection callbacks in StartOfRound
+[Info   : Unity Log] Began listening to SceneManager_OnLoadComplete1 on this client
+[Info   : Unity Log] Changing gamma
+[Info   : Unity Log] override float value: 1
+[Info   : Unity Log] Overriding float
+[Info   : Unity Log] Gamma changed
+[Info   : Unity Log] Set gamma to new value: 1; (0.00, 0.00, 0.00, 1.00) (True)
+[Info   : Unity Log] T
+[Warning: Unity Log] testEntrance is disabled! Netcode for GameObjects does not support spawning disabled NetworkBehaviours! The InteractTrigger component was skipped during spawn!
+[Warning: Unity Log] testEntrance is disabled! Netcode for GameObjects does not support spawning disabled NetworkBehaviours! The EntranceTeleport component was skipped during spawn!
+[Warning: Unity Log] testExit is disabled! Netcode for GameObjects does not support spawning disabled NetworkBehaviours! The InteractTrigger component was skipped during spawn!
+[Warning: Unity Log] testExit is disabled! Netcode for GameObjects does not support spawning disabled NetworkBehaviours! The EntranceTeleport component was skipped during spawn!
+[Warning: Unity Log] OutsideShip (5) is disabled! Netcode for GameObjects does not support spawning disabled NetworkBehaviours! The AudioReverbTrigger component was skipped during spawn!
+[Warning: Unity Log] EnemySpawner is disabled! Netcode for GameObjects does not support spawning disabled NetworkBehaviours! The InteractTrigger component was skipped during spawn!
+[Warning: Unity Log] OutsideEnemySpawner is disabled! Netcode for GameObjects does not support spawning disabled NetworkBehaviours! The InteractTrigger component was skipped during spawn!
+[Warning: Unity Log] OutsideEnemySpawner (1) is disabled! Netcode for GameObjects does not support spawning disabled NetworkBehaviours! The InteractTrigger component was skipped during spawn!
+[Warning: Unity Log] Cube is disabled! Netcode for GameObjects does not support spawning disabled NetworkBehaviours! The InteractTrigger component was skipped during spawn!
+[Warning: Unity Log] Cube is disabled! Netcode for GameObjects does not support spawning disabled NetworkBehaviours! The AnimatedObjectTrigger component was skipped during spawn!
+[Warning: Unity Log] Cube is disabled! Netcode for GameObjects does not support spawning disabled NetworkBehaviours! The DoorLock component was skipped during spawn!
+[Warning: Unity Log] Cube is disabled! Netcode for GameObjects does not support spawning disabled NetworkBehaviours! The InteractTrigger component was skipped during spawn!
+[Warning: Unity Log] Cube is disabled! Netcode for GameObjects does not support spawning disabled NetworkBehaviours! The AnimatedObjectTrigger component was skipped during spawn!
+[Warning: Unity Log] Cube is disabled! Netcode for GameObjects does not support spawning disabled NetworkBehaviours! The DoorLock component was skipped during spawn!
+[Warning: Unity Log] EnginePart is disabled! Netcode for GameObjects does not support spawning disabled NetworkBehaviours! The PhysicsProp component was skipped during spawn!
+[Warning: Unity Log] Cog is disabled! Netcode for GameObjects does not support spawning disabled NetworkBehaviours! The PhysicsProp component was skipped during spawn!
+[Warning: Unity Log] KillTrigger is disabled! Netcode for GameObjects does not support spawning disabled NetworkBehaviours! The InteractTrigger component was skipped during spawn!
+[Warning: Unity Log] damageTrigger is disabled! Netcode for GameObjects does not support spawning disabled NetworkBehaviours! The InteractTrigger component was skipped during spawn!
+[Info   : Unity Log] Can't add component 'RectTransform' to ScrollViewport because such a component is already added to the game object!
+[Info   : Unity Log] # powered lights: 0
+[Info   : Unity Log] level id: 0
+[Info   : Unity Log] Changing level
+[Info   : Unity Log] Item sales percentages #0: 0
+[Info   : Unity Log] Item sales percentages #1: 0
+[Info   : Unity Log] Item sales percentages #2: 0
+[Info   : Unity Log] Item sales percentages #3: 0
+[Info   : Unity Log] Item sales percentages #4: 0
+[Info   : Unity Log] Item sales percentages #5: 0
+[Info   : Unity Log] Item sales percentages #6: 0
+[Info   : Unity Log] Item sales percentages #7: 0
+[Info   : Unity Log] Item sales percentages #8: 0
+[Info   : Unity Log] Item sales percentages #9: 0
+[Info   : Unity Log] Item sales percentages #10: 0
+[Info   : Unity Log] Item sales percentages #11: 0
+[Warning: Unity Log] NetworkVariable is written to, but doesn't know its NetworkBehaviour yet. Are you modifying a NetworkVariable before the NetworkObject is spawned?
+[Warning: Unity Log] NetworkVariable is written to, but doesn't know its NetworkBehaviour yet. Are you modifying a NetworkVariable before the NetworkObject is spawned?
+[Warning: Unity Log] NetworkVariable is written to, but doesn't know its NetworkBehaviour yet. Are you modifying a NetworkVariable before the NetworkObject is spawned?
+[Warning: Unity Log] NetworkVariable is written to, but doesn't know its NetworkBehaviour yet. Are you modifying a NetworkVariable before the NetworkObject is spawned?
+[Warning: Unity Log] NetworkVariable is written to, but doesn't know its NetworkBehaviour yet. Are you modifying a NetworkVariable before the NetworkObject is spawned?
+[Warning: Unity Log] NetworkVariable is written to, but doesn't know its NetworkBehaviour yet. Are you modifying a NetworkVariable before the NetworkObject is spawned?
+[Warning: Unity Log] NetworkVariable is written to, but doesn't know its NetworkBehaviour yet. Are you modifying a NetworkVariable before the NetworkObject is spawned?
+[Warning: Unity Log] NetworkVariable is written to, but doesn't know its NetworkBehaviour yet. Are you modifying a NetworkVariable before the NetworkObject is spawned?
+[Warning: Unity Log] NetworkVariable is written to, but doesn't know its NetworkBehaviour yet. Are you modifying a NetworkVariable before the NetworkObject is spawned?
+[Warning: Unity Log] NetworkVariable is written to, but doesn't know its NetworkBehaviour yet. Are you modifying a NetworkVariable before the NetworkObject is spawned?
+[Warning: Unity Log] NetworkVariable is written to, but doesn't know its NetworkBehaviour yet. Are you modifying a NetworkVariable before the NetworkObject is spawned?
+[Warning: Unity Log] NetworkVariable is written to, but doesn't know its NetworkBehaviour yet. Are you modifying a NetworkVariable before the NetworkObject is spawned?
+[Warning: Unity Log] NetworkVariable is written to, but doesn't know its NetworkBehaviour yet. Are you modifying a NetworkVariable before the NetworkObject is spawned?
+[Warning: Unity Log] NetworkVariable is written to, but doesn't know its NetworkBehaviour yet. Are you modifying a NetworkVariable before the NetworkObject is spawned?
+[Info   : Unity Log] Key 'shipGrabbableItems' does not exist
+[Info   : Unity Log] Item sales percentages #0: 0
+[Info   : Unity Log] Item sales percentages #1: 0
+[Info   : Unity Log] Item sales percentages #2: 0
+[Info   : Unity Log] Item sales percentages #3: 0
+[Info   : Unity Log] Item sales percentages #4: 0
+[Info   : Unity Log] Item sales percentages #5: 0
+[Info   : Unity Log] Item sales percentages #6: 0
+[Info   : Unity Log] Item sales percentages #7: 0
+[Info   : Unity Log] Item sales percentages #8: 0
+[Info   : Unity Log] Item sales percentages #9: 0
+[Info   : Unity Log] Item sales percentages #10: 0
+[Info   : Unity Log] Item sales percentages #11: 0
+[Info   : Unity Log] Group credits: 32
+[Info   : Unity Log] [Dissonance:Core] (16:16:51.689) DissonanceComms: Starting Dissonance Voice Comms (8.0.4)
+- Network: [DissonanceSetup (Dissonance.Integrations.Unity_NFGO.NfgoCommsNetwork)]
+- Quality Settings: [Quality: Medium, FrameSize: Small, FEC: True, DenoiseAmount: Moderate, RNN: False (0.65) VoiceDuckLevel: 1 VAD: MediumSensitivity]
+- Codec: [Codec: Opus, FrameSize: 960, SampleRate: 48kHz]
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/LightSwitchContainer/PlacementCollider"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/Cube"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/AnimatedShipDoor/HangarDoorLeft (1)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/ShipBottomColliders/Cube (1)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/ControlDesk.001"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/ShipBottomColliders/Cube (3)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/ShipBottomColliders/Cube (7)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/StorageCloset/Cube.000/Cube"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/ShipBottomColliders/Cube (6)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/ShipBottomColliders/Cube (8)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/ShipBottomColliders/Cube (5)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/ShipBottomColliders/Cube (4)"
+[Info   : Unity Log] Started spectating
+[Info   : Unity Log] Started spectating
+[Info   : Unity Log] Started spectating
+[Info   : Unity Log] Started spectating
+[Info   : Unity Log] Started spectating
+[Info   : Unity Log] Started spectating
+[Info   : Unity Log] Started spectating
+[Info   : Unity Log] Started spectating
+[Warning: Unity Log] [Netcode] Setting ownership twice? Client-ID 0 already owns NetworkObject ID 34!
+[Info   : Unity Log] [Dissonance:Network] (16:16:51.757) NfgoServer: Created server with SessionId:1574496396
+[Info   : Unity Log] [Dissonance:Network] (16:16:51.758) NfgoServer: Connected
+[Info   : Unity Log] Taking control of player Player and enabling camera!
+[Info   : Unity Log] Starting voice tracking for player: Geo
+[Info   : Unity Log] !!!! ENABLING CAMERA FOR PLAYER: Player
+[Info   : Unity Log] !!!! connectedPlayersAmount: 0
+[Info   : Unity Log] Has beta?: {hasBeta}
+[Info   : Unity Log] Has beta save data: True
+[Info   : Unity Log] [Dissonance:Network] (16:16:51.985) ConnectionNegotiator`1: Received handshake response from server, joined session '1574496396'
+[Warning: Unity Log] [Dissonance:Recording] (16:16:51.988) CapturePipelineManager: Detected a frame skip, forcing capture pipeline reset (Delta Time:0.1660443)
+[Info   : Unity Log] [Dissonance:Recording] (16:16:52.001) BasicMicrophoneCapture: Began mic capture (SampleRate:44100Hz, FrameSize:882, Buffer Limit:2^13, Latency:20ms, Device:'Microphone (High Definition Audio Device)')
+[Warning:    LC_API] Asking all other players for their mod list..
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] Leaving current lobby
+[Info   : Unity Log] Disconnecting and setting networkobjects to destroy with owner
+[Info   : Unity Log] Got no ship grabbable items to save.
+[Info   : Unity Log] Shutting down and disconnecting from server. Is host?: True
+[Info   : Unity Log] [Netcode] Shutdown
+[Warning: Unity Log] [Dissonance:Recording] (16:17:08.991) BasePreprocessingPipeline: Lost 255 samples in the preprocessor (buffer full), injecting silence to compensate
+[Warning: Unity Log] [Dissonance:Recording] (16:17:08.992) BasePreprocessingPipeline: Lost 882 samples in the preprocessor (buffer full), injecting silence to compensate
+[Info   : Unity Log] [Netcode] ShutdownInternal
+[Info   : Unity Log] [FacepunchTransport] - Shutting down.
+[Info   : Unity Log] [Netcode] NetworkConnectionManager.Shutdown() -> IsListening && NetworkTransport != null -> NetworkTransport.Shutdown()
+[Info   : Unity Log] [Dissonance:Network] (16:17:09.032) NfgoClient: Disconnected
+[Info   : Unity Log] [Dissonance:Network] (16:17:09.033) NfgoServer: Disconnected
+[Info   : Unity Log] Resetting unlockables list!
+[Info   : Unity Log] Scene manager is null
+[Info   : Unity Log] DISABLING connection callbacks in round manager
+[Info   : Unity Log] Terminal disabled, disabling ESC key listener
+[Info   : Unity Log] Set version num
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Info   : Unity Log] Changing gamma
+[Info   : Unity Log] override float value: 1
+[Info   : Unity Log] Overriding float
+[Info   : Unity Log] Gamma changed
+[Info   : Unity Log] Set gamma to new value: 1; (0.00, 0.00, 0.00, 1.00) (True)
+[Info   : Unity Log] T
+[Info   : Unity Log] [Dissonance:Core] (16:17:09.157) DissonanceComms: Loading default playback prefab
+[Info   : Unity Log] [Dissonance:Core] (16:17:09.159) DissonanceComms: Starting Dissonance Voice Comms (8.0.4)
+- Network: [DissonanceSetup (Dissonance.Integrations.Unity_NFGO.NfgoCommsNetwork)]
+- Quality Settings: [Quality: Medium, FrameSize: Small, FEC: True, DenoiseAmount: Moderate, RNN: False (0.65) VoiceDuckLevel: 1 VAD: MediumSensitivity]
+- Codec: [Codec: Opus, FrameSize: 960, SampleRate: 48kHz]
+[Info   : Unity Log] [Netcode] ShutdownInternal
+[Info   : Unity Log] Leaving current lobby
+[Info   : Unity Log] Disconnecting and setting networkobjects to destroy with owner
+[Info   : Unity Log] Server is not active; quitting to main menu
+[Info   : Unity Log] Set version num
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Info   : Unity Log] Changing gamma
+[Info   : Unity Log] override float value: 1
+[Info   : Unity Log] Overriding float
+[Info   : Unity Log] Gamma changed
+[Info   : Unity Log] Set gamma to new value: 1; (0.00, 0.00, 0.00, 1.00) (True)
+[Info   : Unity Log] T
+[Info   : Unity Log] unsubscribing from steam callbacks
